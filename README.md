@@ -1,12 +1,6 @@
 # BDS — Demo redirect (GitHub Pages)
 
-URL cố định cho khách: **https://ido241117.github.io/BDS/**
-
-## Bật GitHub Pages (lần đầu)
-
-1. Vào repo → **Settings** → **Pages**
-2. **Source**: Deploy from branch → branch `main`, folder `/ (root)`
-3. Save — đợi 1–3 phút rồi mở link trên
+URL cố định cho khách: **bds.kalendula.vn**
 
 ## Sáng — bật demo
 
