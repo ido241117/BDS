@@ -25,10 +25,10 @@ URL cố định cho khách: **https://ido241117.github.io/Thien_phan/**
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="refresh" content="0; url=TUNNEL_URL" />
-    <title>Đang mở demo...</title>
+    <title>Đang mở App...</title>
   </head>
   <body>
-    <p>Đang chuyển sang demo…
+    <p>Đang chuyển sang App...
       <a href="TUNNEL_URL">Bấm vào đây</a> nếu không tự chuyển.</p>
   </body>
 </html>
@@ -48,17 +48,14 @@ URL cố định cho khách: **https://ido241117.github.io/Thien_phan/**
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Demo tạm đóng</title>
+    <title>App đang tạm đóng</title>
     <style>
       body { font-family: system-ui, sans-serif; max-width: 32rem; margin: 4rem auto; padding: 0 1rem; }
     </style>
   </head>
   <body>
-    <h1>Demo tạm thời đã đóng</h1>
-    <p>Máy chủ demo hoạt động trong giờ hành chính. Vui lòng quay lại vào ngày làm việc tiếp theo.</p>
-    <p>Liên hệ: <a href="mailto:contact@company.com">contact@company.com</a> · 0xxx xxx xxx</p>
+    <h1>App tạm thời đã đóng</h1>
+    <p>Máy chủ app hoạt động trong giờ hành chính. Vui lòng quay lại vào ngày làm việc tiếp theo hoặc liên hệ dev.</p>
   </body>
 </html>
 ```
-
-> Cập nhật email/SĐT trong template chiều trước khi dùng lần đầu.
