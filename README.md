@@ -1,6 +1,6 @@
-# Thien_phan — Demo redirect (GitHub Pages)
+# BDS — Demo redirect (GitHub Pages)
 
-URL cố định cho khách: **https://ido241117.github.io/Thien_phan/**
+URL cố định cho khách: **https://ido241117.github.io/BDS/**
 
 ## Bật GitHub Pages (lần đầu)
 
